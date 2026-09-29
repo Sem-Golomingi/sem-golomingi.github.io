@@ -1,0 +1,15 @@
+# Fichiers LaTeX temporaires
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Fichiers système
+Thumbs.db
+.DS_Store
+
+# Source LaTeX
+*.tex

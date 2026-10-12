@@ -4,16 +4,15 @@
 - `index.html` — site principal
 - `style.css` — design et responsive
 - `script.js` — interactions
-- `assets/` — photo et documents visuels
-- `CV_Sem_Golomingi.tex` — source LaTeX du CV
-- `CV_Sem_Golomingi.pdf` — CV compilé
+- `assets/` — photo, images de projets et documents visuels
+- `mon_CV_sem_g.pdf` — CV à télécharger (lien « Télécharger mon CV »)
 
 ## Étape suivante : mettre le site en ligne gratuitement
 
 ### Option recommandée : GitHub Pages
 1. Créer/connecter un compte sur GitHub.
 2. Créer un dépôt **public** nommé exactement `sem-golomingi.github.io` si le nom est disponible.
-3. Envoyer à la racine du dépôt : `index.html`, `style.css`, `script.js`, le dossier `assets/` et `CV_Sem_Golomingi.pdf`.
+3. Envoyer à la racine du dépôt : `index.html`, `style.css`, `script.js`, le dossier `assets/` et `mon_CV_sem_g.pdf`.
 4. Dans le dépôt : **Settings → Pages**.
 5. Dans **Build and deployment**, choisir **Deploy from a branch**.
 6. Sélectionner la branche `main` et le dossier `/ (root)`, puis enregistrer.
